@@ -58,4 +58,4 @@ All programs and functions were compiled with gcc 4.8.4 using flags -Wall -Werro
 
 Styling All files have been written in the Betty Style.
 
-Author- Adewale Adeogun And
+Author- Adewale Adeogun And Derrick Kwabena Acheampong Oti
